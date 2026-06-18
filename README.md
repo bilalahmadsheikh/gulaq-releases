@@ -31,6 +31,10 @@ releases signed with gulaq's private key are ever installed.
 | `gulaq Desktop Vault_<version>_x64-setup.exe.sig` | Detached signature for the installer |
 | `latest.json` | Update manifest the app reads to detect new versions |
 
+## 🐞 Found a bug?
+
+Please [**open an issue**](https://github.com/bilalahmadsheikh/gulaq-releases/issues/new?template=bug_report.md) — see [SUPPORT.md](SUPPORT.md) for what to include. (Don't paste private chat contents or tokens into a public issue.)
+
 ## Links
 
 - **Website:** https://projectgoldenage.vercel.app/gulaq
